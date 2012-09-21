@@ -1,0 +1,50 @@
+<LVO:omvDi01AanbiedenAanvraag xmlns:LVO="http://www.vrom.nl/StUF/sector/lvo/0305">
+            <LVO:stuurgegevens>
+                <StUF:versieStUF xmlns:StUF="http://www.egem.nl/StUF/StUF0300">0300</StUF:versieStUF>
+                <StUF:sectormodel xmlns:StUF="http://www.egem.nl/StUF/StUF0300">LVO</StUF:sectormodel>
+                <StUF:versieSectormodel xmlns:StUF="http://www.egem.nl/StUF/StUF0300">0305</StUF:versieSectormodel>
+                <StUF:berichtcode xmlns:StUF="http://www.egem.nl/StUF/StUF0300">Di01</StUF:berichtcode>
+                <StUF:zender xmlns:StUF="http://www.egem.nl/StUF/StUF0300">
+                    <StUF:organisatie>VROM</StUF:organisatie>
+                    <StUF:applicatie>OLO</StUF:applicatie>
+                    <StUF:administratie>Omgevingsvergunning</StUF:administratie>
+                </StUF:zender>
+                <StUF:ontvanger xmlns:StUF="http://www.egem.nl/StUF/StUF0300">
+                    <StUF:organisatie>Gemeente VNG acceptatie 01 (amst</StUF:organisatie>
+                    <StUF:applicatie>Gemeente VNG acceptatie 01 (amst</StUF:applicatie>
+                    <StUF:administratie>Omgevingsvergunning</StUF:administratie>
+                </StUF:ontvanger>
+                <StUF:referentienummer xmlns:StUF="http://www.egem.nl/StUF/StUF0300">32028</StUF:referentienummer>
+                <StUF:tijdstipBericht xmlns:StUF="http://www.egem.nl/StUF/StUF0300">20100728141809</StUF:tijdstipBericht>
+                <StUF:entiteittype xmlns:StUF="http://www.egem.nl/StUF/StUF0300">OMV</StUF:entiteittype>
+                <StUF:functie xmlns:StUF="http://www.egem.nl/StUF/StUF0300">AanbiedenAanvraag</StUF:functie>
+            </LVO:stuurgegevens>
+            <LVO:body>
+                <LVO:update>
+                    <LVO:parametersKennisgeving>
+                        <StUF:mutatiesoort xmlns:StUF="http://www.egem.nl/StUF/StUF0300">T</StUF:mutatiesoort>
+                        <StUF:indicatorOvername xmlns:StUF="http://www.egem.nl/StUF/StUF0300">V</StUF:indicatorOvername>
+                    </LVO:parametersKennisgeving>
+                    <LVO:object StUF:entiteittype="OMV"
+                        StUF:verwerkingssoort="T" xmlns:StUF="http://www.egem.nl/StUF/StUF0300">
+                        <LVO:aanvraagGegevens>
+                            <LVO:aanvraagNaam>Adam25</LVO:aanvraagNaam>
+                            <LVO:projectOmschrijving>Adam25</LVO:projectOmschrijving>
+                            <LVO:aanvraagProcedure>ReguliereProcedure</LVO:aanvraagProcedure>
+                            <LVO:toelichtingBijIndiening>-</LVO:toelichtingBijIndiening>
+                            <LVO:aanvraagnummer>111123</LVO:aanvraagnummer>
+                            <LVO:aanvraagdatum>20100728</LVO:aanvraagdatum>
+                            <LVO:plichtStatus>Vergunningsplicht</LVO:plichtStatus>
+                            <LVO:uitgesteldeAanleveringBijlagen>ja</LVO:uitgesteldeAanleveringBijlagen>
+                            <LVO:omschrijvingUitgesteldeBijlagen>ggfsdf</LVO:omschrijvingUitgesteldeBijlagen>
+                            <LVO:omschrijvingNietInTeDienenBijlagen>saddasads</LVO:omschrijvingNietInTeDienenBijlagen>
+                            <LVO:referentieCodeAanvrager>Adam25</LVO:referentieCodeAanvrager>
+                            <LVO:persoonsgegevensVrijgeven>ja</LVO:persoonsgegevensVrijgeven>
+                            <LVO:kostenPubliceren>ja</LVO:kostenPubliceren>
+                            <LVO:gefaseerdIndienen>niet</LVO:gefaseerdIndienen>
+                            <LVO:landelijkeFormulierVersie>2010.01</LVO:landelijkeFormulierVersie>
+                        </LVO:aanvraagGegevens>
+                    </LVO:object>
+                </LVO:update>
+            </LVO:body>
+        </LVO:omvDi01AanbiedenAanvraag>
